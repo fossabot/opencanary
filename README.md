@@ -3,6 +3,7 @@ OpenCanary
 Thinkst Applied Research
 
 ![opencanary logo](docs/logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmlsendian%2Fopencanary.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmlsendian%2Fopencanary?ref=badge_shield)
 
 Overview
 ----------
@@ -161,3 +162,7 @@ local7.*            /var/log/samba-audit.log
 ```
 
 For other syslog implementations similar lines might work.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmlsendian%2Fopencanary.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmlsendian%2Fopencanary?ref=badge_large)
